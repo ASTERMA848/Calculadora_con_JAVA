@@ -437,12 +437,12 @@ public class Calculadora extends javax.swing.JFrame {
         pantallaResultado.setFont(new java.awt.Font("Arial", 0, 48)); // NOI18N
         pantallaResultado.setForeground(new java.awt.Color(47, 58, 82));
         pantallaResultado.setHorizontalAlignment(javax.swing.SwingConstants.RIGHT);
-        pantallaResultado.setText("0000");
+        pantallaResultado.setText("0");
 
         pantallaOperacion.setFont(new java.awt.Font("Arial Black", 1, 24)); // NOI18N
         pantallaOperacion.setForeground(new java.awt.Color(47, 58, 82));
         pantallaOperacion.setHorizontalAlignment(javax.swing.SwingConstants.RIGHT);
-        pantallaOperacion.setText("000");
+        pantallaOperacion.setText("0");
 
         CambiarTema.setBackground(new java.awt.Color(255, 102, 102));
         CambiarTema.setIcon(new javax.swing.ImageIcon(getClass().getResource("/imagenes/icon1.png"))); // NOI18N
